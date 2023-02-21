@@ -20,13 +20,13 @@ const productData = [
     category_id: 4,
   },
   {
-    product_name: 'Top 40 Music Compilation Vinyl Record',
+    product_name: 'Featherd Cap ',
     price: 12.99,
     stock: 50,
     category_id: 3,
   },
   {
-    product_name: 'Cargo Shorts',
+    product_name: 'Cargo Ship',
     price: 29.99,
     stock: 22,
     category_id: 2,
